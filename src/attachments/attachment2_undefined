@@ -1,0 +1,44 @@
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1706687708; x=1707292508; dara=google.com;
+        h=mime-version:date:content-transfer-encoding:message-id:subject:to
+         :from:from:to:cc:subject:date:message-id:reply-to;
+        bh=os5rjzWdhtcYg8W7NkFiitTTDv0wPJi/27aFu+a4XnE=;
+        b=by8VxjUvGC66eB9QZsu2dHYSEOeqGgdsMxOAg3IYGook+N3+41uVldDzU2/8HdolzK
+         qDQVrQaClgCKL4SIwxtP38x1Z/oWa7UvGRswRjKDuInjpCqm5EvNRpP9FjQMnyYl5xU9
+         VuGEHCQnsKGB6nU1iZKEmkgON1zi9gi31mfnc5IS/LJ/xXRwApLLuTMghAj2YpicdUv7
+         7/ckXafhW8lo/YN51T65kfTvhV4oHfTIqiwy2jmzMcG8uTw47eD9/lLjmri6DFxUbAx0
+         cDbqNlP6M+eg9i+VCqlH1up+h58GIaN27AkNGnnzoP7eYr5mfktw4XxJ6xPC9iS9KZ3H
+         rC1g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1706687708; x=1707292508;
+        h=mime-version:date:content-transfer-encoding:message-id:subject:to
+         :from:x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;
+        bh=os5rjzWdhtcYg8W7NkFiitTTDv0wPJi/27aFu+a4XnE=;
+        b=bun6FZ3Juo2wAtX28fHzZQE7P/PGo6M8jHj8RUv+oCvXOZReF1amkxtC+Gs0z4mqvy
+         sGGT+ADuBdbQ3Uao+HnsGVTx54pw+OOfueR8+G9La7jjN1F1GrGHa4BtRX6RABkdaYi0
+         p1kj8fJQ4rsVQ/kYbNzbilNhLbYM9wsifdFCVu5AfExBUwqOOOkkaYy2oBPijF8fPefI
+         tpyuEPZWaK9kul6YZkAH1U/z3OZtirhNVAqHVt7YfavGUwRmC6A8Ol6KE1gTfzeMKuz9
+         ulWX4P9sFPvt5tYzLHEi89plm7iZFf79yQRbupGBZgGTthuf+6TvoTnP+PclGuUa9Wkd
+         zy/w==
+X-Gm-Message-State: AOJu0YyrKkbnwIYC0FVR8N7ZRTKtIXw7qi21n/2kGRVo8TDBEE/O08d/
+	avWHcp7wONx4kBxfQf1ERDkGtGraPgC89PFuTMvBGiKtq2v2FZEcZja9wK4QHG8=
+X-Google-Smtp-Source: AGHT+IFQ8NQqtqqykbaLHa/Ll/mID+noh7nDcrq9g4gaZ/X+xNw8hj6bMFtR1FhoGi1z9UyssVwvZQ==
+X-Received: by 2002:a62:5fc3:0:b0:6da:bcea:4cd4 with SMTP id t186-20020a625fc3000000b006dabcea4cd4mr1001483pfb.16.1706687708202;
+        Tue, 30 Jan 2024 23:55:08 -0800 (PST)
+Return-Path: <vijju.vardi@gmail.com>
+Received: from [127.0.0.1] ([49.37.155.250])
+        by smtp.gmail.com with ESMTPSA id ks2-20020a056a004b8200b006db3149eacasm9215641pfb.104.2024.01.30.23.55.07
+        for <harish@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Tue, 30 Jan 2024 23:55:07 -0800 (PST)
+Content-Type: text/html; charset=utf-8
+From: vijju.vardi@gmail.com
+To: harish@gmail.com
+Subject: Request Declined
+Message-ID: <9ee70d18-a48c-4775-df40-cb772262e771@gmail.com>
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 31 Jan 2024 07:55:04 +0000
+MIME-Version: 1.0
+
+Hi harish,<br><br>Your request has been declined. Please contact our team =
+for more information.

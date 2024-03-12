@@ -1,0 +1,46 @@
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1704363953; x=1704968753; darn=example.com;
+        h=mime-version:date:content-transfer-encoding:message-id:subject:to
+         :from:from:to:cc:subject:date:message-id:reply-to;
+        bh=9dleQlMpjclIpNg7ghUVLTcDSaQSNcti7yKs5IXOgVY=;
+        b=XRbrsyAEKfX+Ymu8Zd+b6WxICgvWmVJWEB/1Pd7GDJfOEsWLPpJR0Gx/zyAS9+7smv
+         VCD+un1oP3NmlvTddMpLfmAy5rPf2XHpCGB2XdUQHU9OVBtzzJw7PUCtthO3cMXWhvl4
+         OnDynMGkq3ejTqm5rDGKs62xEj9FE+MJ4xsPcQ5Z34xgOcHlKF3lV2jKn7U8LPstCIIP
+         4xNHXILTHcS6Cq1CpQXnEbByCJYM4IPr4qNLj7lBKJGET0qqdbiz6ir11CBwXIOtu2gC
+         xzpNyy/nmlwI4pH6zYm+F/fkVVE4NROm0DkzXmW/Xa6X/1CrlOtBQPlSfJ/L5X2Fiv7u
+         xYEQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1704363953; x=1704968753;
+        h=mime-version:date:content-transfer-encoding:message-id:subject:to
+         :from:x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;
+        bh=9dleQlMpjclIpNg7ghUVLTcDSaQSNcti7yKs5IXOgVY=;
+        b=rd8rxiXx2iXh37WxnvbhCkXemwejz5eNNBdXdfx60EXdVQeqByiZNkUdFihhZfO5zO
+         cpmCLZ27/2vypMwz233ByvMPrDbK4vW14JnHbVsx0olPqkhL80moR6T/+LUlKm/rAowV
+         +YORo5pv3rJ9b1/Dqq7wATEVi01AUkeOtVQkvP/39DNPUd6M8Y7iimhftuu4k6TJQAfw
+         VcjVGEru0fkegqdP2UngUZAw2nrf3VUwFqkNSkYCeiiAPHHpc5YszL2QJjzlZqgnPfON
+         o6LskMEALyAybgX1l+5r5DdFWUzX9FiQzokqgQVXVWshLEJTEaw6wvyPhhfS2p9Kzx/M
+         0CRA==
+X-Gm-Message-State: AOJu0YxXI94uDyWtBrF/LFbDV9Ylw+AnqILbwJaWyPjqFgaCsv7LkOMz
+	G+se3Flco0uqbz5W9tAgdBs0e3XdHZLiCg==
+X-Google-Smtp-Source: AGHT+IEA7ZSvV0hsEG4WRa0qwGRlRJj8yXSlUDbC2F8/6qAMlnFQWkmsVGKUdqYFOI3wEMY/gG3NqA==
+X-Received: by 2002:a05:6a20:a127:b0:190:d1d2:570d with SMTP id q39-20020a056a20a12700b00190d1d2570dmr306186pzk.29.1704363952667;
+        Thu, 04 Jan 2024 02:25:52 -0800 (PST)
+Return-Path: <vijju.vardi@gmail.com>
+Received: from [127.0.0.1] ([49.37.152.171])
+        by smtp.gmail.com with ESMTPSA id d5-20020a170902854500b001d49f61cb64sm10874484plo.262.2024.01.04.02.25.51
+        for <rftyuhsrt.jj@example.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Thu, 04 Jan 2024 02:25:52 -0800 (PST)
+Content-Type: text/html; charset=utf-8
+From: vijju.vardi@gmail.com
+To: rftyuhsrt.jj@example.com
+Subject: Account Confirmation
+Message-ID: <a04ff42f-75ee-1401-5de1-5c22f70f046e@gmail.com>
+Content-Transfer-Encoding: 7bit
+Date: Thu, 04 Jan 2024 10:25:50 +0000
+MIME-Version: 1.0
+
+Hi John 
+WELCOME TO CAR_CARE. 
+The new serviceCenterId is successfully registerd. 
+ This is Your serviceCenterId 02615
