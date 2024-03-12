@@ -7,7 +7,7 @@ const shortid=require('shortid');
 const { addposts,getposts,getpost,putPost, deletePost, getPostsBySubcategories, getPostsByCategory} = require('../../controllers/admin/blog');
 const { getUserServicesFromAppointment } = require('../../controllers/serviceCenter/OnsiteAppointments');
 const { getLikesAndDislikesCount } = require('../../controllers/user/interaction');
-const storage = multer.diskStorage({
+const storage = multer.diskStorage({ 
   destination: function (req, file, cb) {
     cb(null, path.join(__dirname, '../../uploads'));
   },
